@@ -19,7 +19,6 @@
 
 1. Sebastian Biagiola
 2. Erlin Rey
-3. Marisa Cánovas
 3. Santiago Casado
-5. Daniel Bazán
-6. Jonathan Matias Borda
+4. Daniel Bazán
+5. Jonathan Matias Borda
