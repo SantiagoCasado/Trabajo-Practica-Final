@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}/env311/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "jupyter.kernels.defaultKernel": "env311",
+    "python.analysis.extraPaths": ["${workspaceFolder}/env311/lib/python3.11/site-packages"]
+}
